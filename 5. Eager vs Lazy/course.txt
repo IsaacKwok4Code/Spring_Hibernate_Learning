@@ -1,0 +1,15 @@
+fetch / retrieve data
+
+Eager will retrieve everything
+	- perfromance issue with big data
+Lazy will retrieve on request
+
+Prefer lazy loading intead of eager loading
+
+using fetch=fetchType.LAZY in @MANYTOONE
+
+default fetch type
+one to one eager
+one to many LAZY
+MANY to ONE eager
+MANY TO MANY LAZY
