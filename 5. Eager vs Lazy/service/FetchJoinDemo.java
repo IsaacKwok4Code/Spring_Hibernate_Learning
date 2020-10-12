@@ -5,9 +5,9 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
-import com.luv2code.hibernate.demo.entity.Course;
-import com.luv2code.hibernate.demo.entity.Instructor;
-import com.luv2code.hibernate.demo.entity.InstructorDetail;
+import com.yin4learn.hibernate.demo.entity.Course;
+import com.yin4learn.hibernate.demo.entity.Instructor;
+import com.yin4learn.hibernate.demo.entity.InstructorDetail;
 
 public class FetchJoinDemo {
 
